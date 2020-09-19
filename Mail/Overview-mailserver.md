@@ -20,4 +20,4 @@
     - Mail Exchanger Record (MX): MX record có nhiệm vụ là chỉ đường cho email đi đến mail server của bạn ( MX record thường đi kèm theo một A record sẽ trỏ về địa chỉ IP của mail server , và một thông số pref có giá trị số để chỉ ra mức độ ưu tiên của các mail server , giá trị pref càng nhỏ thì mức độ ưu tiên càng cao )
 
 ### 2.2 Cách thức hoạt động
-<img src="https://i.imgur.com/iB8wuVe.png">
+![Imgur](https://i.imgur.com/iB8wuVe.png)
