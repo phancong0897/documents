@@ -59,7 +59,7 @@
 
 Ở bước này các bạn lưu ý, hostname sẽ là mail.domain, email domain sẽ là domain.
 
-- ![Imgur](https://imgur.com/CbvBhNA)
+- ![Imgur](https://imgur.com/CbvBhNA.png)
 
 - ![Imgur](https://imgur.com/caEeFx3.png)
 
